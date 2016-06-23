@@ -1,5 +1,6 @@
 
 #This is a simple python program that opens the webbrowser with the specified URL after certain amount of Time breaks
+#It needs the webbrowser and time library
 import webbrowser
 import time
 
