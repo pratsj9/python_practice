@@ -10,7 +10,7 @@ print("Current time is "+time.ctime())
 while i < 2:
     time.sleep(5) #wait 5 seconds till the next browser opening
     print("Looping",i)
-    webbrowser.open("google.com")
+    webbrowser.open("www.google.com")
     break_counter+=1
     i+=1
     
